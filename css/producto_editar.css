@@ -1,0 +1,12 @@
+body {
+    background-image: url('../img/producto_editar.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: end;
+    color: #f2f2f2;
+  }
+
+  #container {
+    align-items: left;
+    background-color: black;
+  }

@@ -1,0 +1,19 @@
+body {
+    background-image: url('../img/producto_nuevo.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: end;
+    color: #f2f2f2;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+  }
+
+  .alta-producto {
+    float: right;
+    background-color: #D48A02;
+    width: 400px;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    font-family: bold;
+    font-size: large;
+  }
+   
